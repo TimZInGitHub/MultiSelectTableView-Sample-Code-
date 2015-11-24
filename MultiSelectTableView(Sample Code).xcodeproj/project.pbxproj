@@ -202,6 +202,7 @@
 		22B778061C038E8100BA6226 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				CLASSPREFIX = TZ;
 				LastUpgradeCheck = 0710;
 				ORGANIZATIONNAME = Tim.Z;
 				TargetAttributes = {
